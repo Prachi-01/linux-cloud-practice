@@ -1,0 +1,29 @@
+    1  whoami
+    2  pwd
+    3  ls
+    4  mkdir techyLinux
+    5  cd techyLinnux
+    6  cd techyLinux
+    7  touch new.txt
+    8  ls
+    9  echo "Hi techy You are now using Linux!" > new.txt  
+   10  cat new.txt
+   11  sudo apt update
+   12  touch me.txt
+   13  echo "you can do it,believe un yourself!" >me.txt
+   14  cat me.txt
+   15  ls
+   16  pwd
+   17  mkdir learner
+   18  cd learner
+   19  touch firstFile.txt
+   20  echo "this is my first file.yayy!" > firstFile.txt
+   21  cat firstFile.txt
+   22  ls
+   23  cd techyLinux
+   24  cd..
+   25  cd ..
+   26  cd learner
+   27  cd -
+   28  ls -l
+   29  history > day1.txt

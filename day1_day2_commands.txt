@@ -1,0 +1,79 @@
+    1  whoami
+    2  pwd
+    3  ls
+    4  mkdir techyLinux
+    5  cd techyLinnux
+    6  cd techyLinux
+    7  touch new.txt
+    8  ls
+    9  echo "Hi techy You are now using Linux!" > new.txt  
+   10  cat new.txt
+   11  sudo apt update
+   12  touch me.txt
+   13  echo "you can do it,believe un yourself!" >me.txt
+   14  cat me.txt
+   15  ls
+   16  pwd
+   17  mkdir learner
+   18  cd learner
+   19  touch firstFile.txt
+   20  echo "this is my first file.yayy!" > firstFile.txt
+   21  cat firstFile.txt
+   22  ls
+   23  cd techyLinux
+   24  cd..
+   25  cd ..
+   26  cd learner
+   27  cd -
+   28  ls -l
+   29  history > day1.txt
+   30  history
+   31  cd techLinux
+   32  cd . .
+   33  cd ..
+   34  chmood +x new.txt
+   35  chmod +x new.txt
+   36  cd learner 
+   37  mkdir happtText
+   38  sudo mkdir /home/happyText 
+   39  mkdir happyText
+   40  cd happyText
+   41  touch happy.txt
+   42  sudo touch happy.txt
+   43  echo "how was your day"
+   44  cd ~/techyLinux
+   45  cd new.txt
+   46  ls -l
+   47  echo " My name is Prachi " 
+   48  echo " My name is Prachi " > new.txt
+   49  cat new.txt
+   50  nano new.txt
+   51  chmod +new.txt
+   52  chmod +x new.txt
+   53  ls -l new.txt
+   54  chown u-w new.txt
+   55  chmod u-w new.txt
+   56  ls _l
+   57  ls -l
+   58  echo 'echo "hi betu 💖"' > new.txt
+   59  chmod u+rwx new.txt
+   60  ls -l new.txt
+   61  chmod u+w new.txt
+   62  chmod u-w new.txt
+   63  ls -l new.txt
+   64  chmod 600 new.txt
+   65  ls -l
+   66  chmod 000 new.txt
+   67  ls -l
+   68  sudo chown new.txt
+   69  sudo chown techy new.txt
+   70  ls -l
+   71  sudo chown prachi new.txt
+   72  sudo adduser Prachi
+   73  sudo adduser prachi
+   74  sudo chown prachi new.txt
+   75  ls -l nnew.txt
+   76  ls -l new.txt
+   77  hisstory day1_day2_commands.txt
+   78  history day1_day2_commands.txt
+   79  history >day1_day2_commands.txt
